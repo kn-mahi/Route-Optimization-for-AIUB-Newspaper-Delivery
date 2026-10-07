@@ -29,8 +29,8 @@ Keeps a limited number of the most promising routes at each step.
 | Beam Search | 90 | 0.280 ms |
 
 ### Reported Best Route
-**Main Gate → Sports Gallery → D Building → Annex 8 → Annex 9 → C Building → Annex 5 & 6 → Annex 2, 3 & 4 → Annex 1**
-**Total Route Cost: 90 distance units**
+(Main Gate → Sports Gallery → D Building → Annex 8 → Annex 9 → C Building → Annex 5 & 6 → Annex 2, 3 & 4 → Annex 1)
+  **Total Route Cost: 90 distance units**
 
 ## Technologies Used
 - Python
