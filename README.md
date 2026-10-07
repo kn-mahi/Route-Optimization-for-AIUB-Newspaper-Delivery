@@ -23,6 +23,7 @@ Keeps a limited number of the most promising routes at each step.
 
 ## Results
 | Algorithm | Route Cost | Execution Time |
+|---|---:|---:|
 | Hill Climbing | 90 | 7.874 ms |
 | Simulated Annealing | 90 | 26.179 ms |
 | Beam Search | 90 | 0.280 ms |
